@@ -41,6 +41,10 @@ Migration Database
 ```
 php artisan migration
 ```
+Generate Key
+```
+php artisan key:generate
+```
 Jalankan Aplikasi nya
 ```
 php artisan serve
