@@ -43,11 +43,11 @@ php artisan migration
 ```
 Jalankan Aplikasi nya
 ```
-php artisna serve
+php artisan serve
 ```
 ## Contributing
 
-Silahkan yang ingin ikut Berkontribusi bisa menghubungi saya lewat Email : rifky.8000@gmail.com
+Silahkan yang ingin ikut Berkontribusi bisa menghubungi saya lewat Email : ngonfigid.8000@gmail.com
 
 ## License
 
