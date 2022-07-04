@@ -5,12 +5,12 @@ Web Portal Sekolah dibangun menggunakan Framework Laravel 9 sebagai dasar dalam 
 
 ## Fitur Web Portal
 
-- **[Data Siswa]**
-- **[Data Guru]**
-- **[Data Alumni]**
-- **[Gambar Slide show]**
-- **[Artikel]**
-- **[Bank Mini Sekolah]**
+- **Data Siswa**
+- **Data Guru**
+- **Data Alumni**
+- **Gambar Slide show**
+- **Artikel**
+- **Bank Mini Sekolah**
 
 ## Tutorial
 Download Bank Mini Sekolah
