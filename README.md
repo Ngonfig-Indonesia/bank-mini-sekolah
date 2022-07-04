@@ -39,7 +39,7 @@ php artisan storage:link
 ```
 Migration Database
 ```
-php artisan migration
+php artisan migrate
 ```
 Generate Key
 ```
